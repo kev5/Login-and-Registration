@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Go&amp;Meet</string>
+    <string name="edit_message">Username</string>
+    <string name="edit_message1">Password</string>
+    <string name="button_send">Login</string>
+    <string name="button_send1">Register</string>
+</resources>
